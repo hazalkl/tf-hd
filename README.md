@@ -14,6 +14,14 @@ You can use the following command to run the project:
 
 - To quit press `q`
 
+---
+
+### Example Output:
+
+![Output](output.gif)
+
+---
+
 #### NOTE:
 
 ***If you come across this project and want to test it, please send me your feedback. I would be very grateful.***

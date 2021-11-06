@@ -18,7 +18,7 @@ You can use the following command to run the project:
 
 ### Example Output:
 
-![Output](output.gif)
+![Output](asset/output.gif)
 
 ---
 
